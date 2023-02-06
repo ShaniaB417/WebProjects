@@ -1,2 +1,2 @@
 # WebProjects
-Web Project using HTML, CSS, Javascript 
+Web Project using HTML and Javascript. Three.js tutorial. 
